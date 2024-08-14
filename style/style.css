@@ -1,1 +1,9 @@
 @import url(rest.css);
+@import url(header.css);
+
+:root{
+    --corfundo: #EBECEE;
+}
+body{
+background-color: var(--corfundo);
+}
