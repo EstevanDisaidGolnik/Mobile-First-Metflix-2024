@@ -1,6 +1,6 @@
 .banner{
-    background-color: var(--azul);
-    color: var(--branco);
+    background-color: var(--preto);
+    color: var(--laranja);
     text-align: center;
     padding: 2.5em 2em;
 }
@@ -17,8 +17,8 @@
 
 .banner__pesquisa{
     background-color: transparent;
-    border: 1px solid var(--branco);
-    color: var(--branco);
+    border: 1px solid var(--laranja);
+    color: var(--laranja);
     border-radius: 24px;
     padding: 1em;
     width: 100%;
@@ -28,8 +28,9 @@
     font-family: var(--fonte-principal);
     font-size: 14px;
     font-weight: 400;
-    color: var(--branco);
+    color: var(--laranja);
     text-align: center;
     background: url("../img/Lupa.png") no-repeat;
+    background-size: 24px;
     background-position: 1.5em;
 }
